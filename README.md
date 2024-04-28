@@ -2,11 +2,11 @@
 Module 21 Challenge, Deep Learning
 
 ## 1st Model
-M21_DeepLearning_Challenge/Model_1.png "Module_1 Details)
+M21_DeepLearning_Challenge/Model_1.png
 Accuracy: 72.53%
 
 ## 2nd Model
-M21_DeepLearning_Challenge/Model_2.png "Module_2 Details)
+M21_DeepLearning_Challenge/Model_2.png
 Accuracy: 72.45%
 
 ## Summary
